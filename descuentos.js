@@ -23,6 +23,12 @@ function onclcikButtonPriceDiscount() {
 
 }
 
+const coupons = [
+    "JuanDC_es_Batman",
+    "pero_no_le_digas_a_nadie",
+    "es_un_secreto",
+];
+
 /*console.log({
     precioOriginal,
     descuento,
